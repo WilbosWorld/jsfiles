@@ -1,4 +1,4 @@
-﻿const villagerImages = {
+const villagerImages = {
     "Ace": "brd09",
     "Admiral": "brd06",
     "Agent S": "squ05",
@@ -3122,5 +3122,27 @@ const itemsList = [
 "RC helicopter",
 "pop-up book",
 "nutcracker"
+];
+
+const holidayItems = [
+    "big festive tree", "festive tree", "tabletop festive tree", "illuminated reindeer",
+    "illuminated snowflakes", "illuminated present", "ornament tree", "ornament garland",
+    "ornament mobile", "ornament table lamp", "giant ornament", "decorative pillar",
+    "glass jar", "candle chandelier", "snow globe", "frozen mini snowperson", "three-tiered snowperson",
+    "frozen table", "frozen partition", "frozen arch", "frozen tree", "frozen pillar",
+    "frozen sculpture", "frozen counter", "pine tree", "Toy Day sleigh",
+    "Toy Day stockings", "gift pile", "puppy plushie", "tin robot", "dollhouse",
+    "RC helicopter", "dinosaur toy", "kids' tent", "pop-up book", "Yule log",
+    "holiday candle", "cornucopia", "festive top set", "cream and sugar", "fireplace",
+    "rocking horse", "Mama bear", "Papa bear", "Baby bear", "nutcracker",
+    "fire pit", "wood-burning stove", "log decorative shelves"
+];
+
+const holidayVillagers = [
+    "Aurora", "Bam", "Beau", "Bianca", "Blanche", "Boomer", "Chester", "Cube", 
+    "Erik", "Fauna", "Flurry", "Gonzo", "Hans", "Iggly", "Jacob", "Jay", 
+    "Julian", "Kyle", "Megan", "Mira", "Puck", "Roald", "Sherb", "Sprinkle", 
+    "Tex", "Tybalt", "Vesta", "Wade", "Wolfgang", "Lily", "Merry", "Chrissy", 
+    "Francine", "Tasha", "Fang", "Chadder", "Goldie", "Holly", "Rudy", "Tutu", "Klaus", "Felicity"
 ];
 
